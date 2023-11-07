@@ -1,0 +1,28 @@
+[
+    {
+      "description": "Sesión 1",
+      "guests": 30,
+      "date": "30/05/24 13:00 hrs"
+    },
+    {
+      "description": "Sesión 2",
+      "guests": 40,
+      "date": "31/05/24 14:00 hrs"
+    },
+    {
+      "description": "Sesión 3",
+      "guests": 20,
+      "date": "01/06/24 15:00 hrs"
+    },
+    {
+      "description": "Sesión 4",
+      "guests": 10,
+      "date": "02/06/24 16:00 hrs"
+    },
+    {
+      "description": "Sesión 5",
+      "guests": 50,
+      "date": "03/06/24 17:00 hrs"
+    }
+  ]
+  
