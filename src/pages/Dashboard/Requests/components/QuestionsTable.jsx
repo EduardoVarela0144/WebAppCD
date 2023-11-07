@@ -1,4 +1,3 @@
-'use client';
 import { Button, Modal } from 'flowbite-react';
 import React, { useState } from "react";
 
