@@ -16,6 +16,7 @@ function useAddUser() {
       setAuth(response.user);
       navigate("/PinGame");
     } catch (error) {
+      alert('El usuario ya existe');
       console.log("Error", error);
     }
   };
